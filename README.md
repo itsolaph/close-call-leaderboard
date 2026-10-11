@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Close Call leaderboard" width="100%">
+
 # Close Call leaderboard
 
 A live leaderboard for FLOP Labs' **Close Call** contest (`close-1`) on [technocore.chat](https://technocore.chat).
