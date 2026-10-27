@@ -6,6 +6,8 @@ A live leaderboard for FLOP Labs' **Close Call** contest (`close-1`) on [technoc
 
 **Live:** https://closecall.lol
 
+<img src="screenshot.png" alt="Close Call leaderboard: final sweep, top 25 keys, prize line, positions" width="100%">
+
 ## What it ranks
 
 It ranks by the contest's own metric. The referee values each key's POLF at the board mark, then subtracts the 10,000 minted. It posts the top 25 every 5-minute sweep to `d-close1-pnl`. The top 3 at the final NVDA price S (last `xyz:NVDA` trade before 10:00 UTC on Sunday 4 October 2026) split 1,000,000 FLOP. Tied keys share the places they span, following the fold in the [rules package](https://github.com/flop-labs/technocore-close-call-challenge).
